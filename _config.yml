@@ -55,10 +55,10 @@ menu:
     url:               /#research
   - title:             PUBLICATION
     url:               /#publication
-  - title:             SKILL
-    url:               /#skill
   - title:             EXPERIENCE
     url:               /#experience 
+  - title:             SKILL
+    url:               /#skill
   - title:             AWARD
     url:               /#award 
   - title:             CONTACT

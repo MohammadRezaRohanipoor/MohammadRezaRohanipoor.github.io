@@ -207,8 +207,8 @@ googlescholar:
   icon: icon-googlescholar
   prepend: "https://scholar.google.co.uk/citations?hl=en&user="
   append: "&view_op=list_works&sortby=pubdate"
-researchgate:
-  name: researchgate
-  icon: icon-googlescholar
-  prepend: "https://www.researchgate.net/profile/"
+# researchgate:
+  # name: researchgate
+  # icon: icon-googlescholar
+  # prepend: "https://www.researchgate.net/profile/"
   
