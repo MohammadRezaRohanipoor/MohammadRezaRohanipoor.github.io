@@ -9990,15 +9990,13 @@ body {
     padding-left: 17rem;
   }
 }
-h1{
-  text-transform: capitalize;
-}
+h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 h1 {
