@@ -40,10 +40,10 @@ logo:                  /assets/img/profile.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Abir Saha
-  email:               <abirsaha056@gmail.com>
+  name:                Mohammad Reza Rohanipoor
+  # email:               <abirsaha056@gmail.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
+  # twitter:             abirsaha_
 
 # Add links to the sidebar.
 menu:
