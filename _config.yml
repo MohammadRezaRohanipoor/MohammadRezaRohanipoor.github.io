@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar. 
 tagline: |
-  Researcher Personal Website of Mohammad Reza Rohanipoor.
+  Researcher.
 
 # A list of keywords for your blog
 keywords:              [Mohammad, Reza, Rohanipoor]
@@ -38,8 +38,8 @@ keywords:              [Mohammad, Reza, Rohanipoor]
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
  # logo:                  /assets/img/profile.jpg
-logo:                  /assets/img/profile.png
-
+# logo:                  /assets/img/profile.png
+logo:                  /assets/icons/reza.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
