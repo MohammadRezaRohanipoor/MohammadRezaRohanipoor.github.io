@@ -9991,7 +9991,7 @@ body {
   }
 }
 h1{
-  text-transform: none;
+  text-transform: capitalize;
 }
 h2,
 h3,
