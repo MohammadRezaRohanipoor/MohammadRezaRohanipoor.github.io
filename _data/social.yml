@@ -210,5 +210,5 @@ googlescholar:
 researchgate:
   name: researchgate
   icon: icon-googlescholar
-  prepend: "https://www.researchgate.net"
+  prepend: "https://www.researchgate.net/profile/"
   
