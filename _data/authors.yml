@@ -1,6 +1,6 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
-# You can change `author1` to your shortname.
+# You can change `author1` to your shortname. 
 author1:
   # Replace <...> with your own (remove the < >)
   name:              Mohammad Reza Rohanipoor
