@@ -3,8 +3,8 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in the Technology and Social Behavior program at Northwestern University.
-hide_description: true
+  Personal Website of Mohammad Reza Rohanipoor.
+hide_description: false
 ---
 <!-- <script type="text/javascript">
 	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
