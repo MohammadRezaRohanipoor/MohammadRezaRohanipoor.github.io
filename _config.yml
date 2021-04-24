@@ -19,13 +19,12 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Mohammad Reza rohanipoor
+title:                 Mohammad Reza Rohanipoor
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  # Personal Website of Abir Saha -  PhD student in Technology and Social Behavior at Northwestern University.
-    Personal Website of Mohammad Reza Rohanipoor.
+  Personal Website of Mohammad Reza Rohanipoor.
 
 # A shorter description for the sidebar.
 tagline: |
@@ -50,11 +49,19 @@ author:
 menu:
   - title:             ABOUT
     url:               /#about
+  - title:             EDUCATION
+    url:               /#education
   - title:             RESEARCH
     url:               /#research
-  - title:             PUBLICATIONS
-    url:               /#publications
-  - title:             CONTACT
+  - title:             PUBLICATION
+    url:               /#publication
+  - title:             SKILL
+    url:               /#skill
+  - title:             EXPERIENCE
+    url:               /#experience 
+   - title:             AWARD
+    url:               /#award 
+ - title:             CONTACT
     url:               /#contact-me
 #   - title:             Blog
 #     url:               /blog
