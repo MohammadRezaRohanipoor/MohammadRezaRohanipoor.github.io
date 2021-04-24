@@ -59,9 +59,9 @@ menu:
     url:               /#skill
   - title:             EXPERIENCE
     url:               /#experience 
-   - title:             AWARD
+  - title:             AWARD
     url:               /#award 
- - title:             CONTACT
+  - title:             CONTACT
     url:               /#contact-me
 #   - title:             Blog
 #     url:               /blog
