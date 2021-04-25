@@ -394,7 +394,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 **Software Programming Languages**
-* *C, C++, C-sharp, Python, Matlab*<br><br>
+* C, C++, C-sharp, Python, Matlab<br><br>
 
 **Hardware Description Languages**
 * *VHDL, Verilog*<br><br>
