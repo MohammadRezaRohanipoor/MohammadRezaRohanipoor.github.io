@@ -102,7 +102,10 @@ In this project, I'm interested in understanding how people with vision impairme
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
-<h3 class="h2">Current Projects</h3>
+<h3 class="h2">My Research Interests Are:</h3>
+
+* **Reliable Circuits Design** *
+
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
 *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
 
