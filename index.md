@@ -59,8 +59,10 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 <h2 class="h1" style="color: rgb(1,92,171)" id="education">Education </h2>
 
 <h3 class="h2">2014-2016</h3>
-**M.Sc. in Computer Engineering, Computer Architecture,Department of ComputerEngineering, Shahid Bahonar University of Kerman, Kerman, Iran,**  
-*Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
+**M.Sc. in Computer Engineering, Computer Architecture**  
+*Place: Department of ComputerEngineering, Shahid Bahonar University of Kerman, Kerman, Iran.* 
+*Advisor*: Professor Behnam Ghavami, Professor Mohsen Raji.
+<!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
 
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
 
