@@ -45,9 +45,9 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 <div class="body-social sidebar-social">
   <ul>
     <li> <a href="https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span></a></li>
-    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
-    <li> <a href="https://www.linkedin.com/in/mohammad-reza-rohanipoor-b753b51b8/" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span></a></li>
-    <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li>
+    <!-- <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li> -->
+    <!-- <li> <a href="https://www.linkedin.com/in/mohammad-reza-rohanipoor-b753b51b8/" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span></a></li> -->
+    <!-- <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li> -->
   </ul>
 </div>
 
