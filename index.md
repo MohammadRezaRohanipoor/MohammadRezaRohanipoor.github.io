@@ -61,15 +61,14 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 <h3 class="h2">2014-2016</h3>
 **M.Sc. in Computer Engineering, Computer Architecture (18.05/20)**  
 *<b>University</b>: Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.*<br> 
-*<b>Thesis Title</b>*: Soft Error Rate Reduction of Digital Systems Considering Masking Effects (19.75/20).<br> 
-*<b>Advisors</b>*: Professor Behnam Ghavami, Professor Mohsen Raji.
+*<b>Thesis Title</b>: Soft Error Rate Reduction of Digital Systems Considering Masking Effects (<b>19.75/20</b>).*<br> 
+*<b>Advisors</b>: Professor Behnam Ghavami, Professor Mohsen Raji.*
 <!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
 
-<b>University</b>: Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.<br><b>Thesis Title</b>: Soft Error Rate Reduction of Digital Systems Considering Masking Effects (19.75/20).<br><b>Advisors</b>: Professor Behnam Ghavami, Professor Mohsen Raji.
-
+<!-- <b>University</b>: Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.<br><b>Thesis Title</b>: Soft Error Rate Reduction of Digital Systems Considering Masking Effects (19.75/20).<br><b>Advisors</b>: Professor Behnam Ghavami, Professor Mohsen Raji.
 
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
-
+ -->
 
 <h3 class="h2">Past Projects</h3>
 **DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
