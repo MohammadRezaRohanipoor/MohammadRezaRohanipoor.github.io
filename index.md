@@ -393,6 +393,29 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
+**Software Programming Languages**
+* *C, C++, C-sharp, Python, Matlab*<br><br>
+
+**Hardware Description Languages**
+* *VHDL, Verilog*<br><br>
+
+**Development Tools** 
+* *Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br><br>
+
+**FPGAs and Microcontrollers**
+* *Xilinx FPGAs, Altera FPGAs, TI DSPs, ARM, AVR*<br><br>
+
+**Development Boards**
+* *Digilent Atlys, Altera DE1, TI TMDSEVM6678, Raspberry Pi4, Arduino Mega 2560, Arduino Uno*<br><br>
+
+**Other Softwares**
+* *Microsoft Visual Studio, SQL Server, Microsoft Office*<br><br>
+
+**Operating Systems**
+* *Microsoft Windows, Ubuntu*<br><br>
+
+
+
 <!-- *<b>Programming Languages:</b> C, C++, C-sharp, Python, Matlab*<br> -->
 <!-- *<b>HDL Languages:</b> VHDL, Verilog*<br> -->
 <!-- *<b>Development Tools:</b> Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br> -->
@@ -400,6 +423,10 @@ In this project, I'm interested in understanding how people with vision impairme
 <!-- *<b>Development Boards:</b> Digilent Atlys, Altera DE1, TI TMDSEVM6678, Raspberry Pi4, Arduino Mega 2560, Arduino Uno*<br> -->
 <!-- *<b>Other Tools:</b> Microsoft Visual Studio, SQL Server, Microsoft Office*<br> -->
 <!-- *<b>Operating Systems:</b> Microsoft Windows, Ubuntu*<br><br> -->
+
+
+
+
 
 
 <h3 class="h2">Programming Languages</h3> 
@@ -422,8 +449,6 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Operating Systems</h3> 
 * *Microsoft Windows, Ubuntu*<br><br>
-
-
 
 
 
