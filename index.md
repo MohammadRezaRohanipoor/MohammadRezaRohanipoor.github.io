@@ -27,6 +27,7 @@ hide_description: true
 
 
 My name is <b>Mohammad Reza Rohanipoor</b>. I am a researcher in <b>Reliable Embedded System Design Laboratory (RESD)</b>, Iran. I received my MSc degree in Computer Engineering, Computer Architecture major, from the Department of Computer Engineering at Shahid Bahonar University of Kerman (SBUK), Iran, in 2017.  I did my Master's project under the supervision of <b>Professor Behnam Ghavami</b>. Previously, I received my BSc degree in Computer Engineering, Computer Hardware, from SBUK, in 2013. As a result of my successful Master's education and because of my research achievements, I became a member of <b>Iran's National Elites Foundation (INEF)</b>, in 2017. 
+
 My research interests include Reliable Systems, Computer Architecture, Digital Systems Design, Embedded Systems, Parallel Processing, and Deep Learning. 
 
 <!-- My name is <b>Mohammad Reza Rohanipoor</b>. I am a researcher in Reliable Embedded System Design Laboratory (RESD) leading by <b>Professor Behnam Ghavami</b>. I received my MSc degree in Computer Aichitecture Engineering from Shahid Bahonar University of Kerman (SBUK), Iran, in 2017.  Previously, I received the BSc degree in Computer Hardware Engineering from SBUK, in 2013. 
@@ -39,9 +40,9 @@ Previously, I completed my Master of Science in Electrical and Computer Engineer
 
 My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with disabilities.  
 
-I lo -->ve traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. 
+<!-- I lo -->ve traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
-
+ -->
 <div class="body-social sidebar-social">
   <ul>
     <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
