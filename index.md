@@ -71,11 +71,11 @@ In this project, I'm interested in understanding how people with vision impairme
  -->
 
 
-<h3 class="h2">2014-2016</h3>
+<h3 class="h2">2009-2013</h3>
 **M.Sc. in Computer Engineering, Computer Hardware**  
 *<b>University</b>: Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.*<br> 
 *<b>Thesis Title</b>: Design and Implementation of Image Encryption and Decryption Modules Using AESEncryption Algorithm based on VHDL Language (<b>19.5/20</b>).*<br> 
-*<b>Advisors</b>: Vahid Jamshidi.*
+*<b>Advisors</b>: Professor Vahid Jamshidi.*
 
 
 <h3 class="h2">Past Projects</h3>
