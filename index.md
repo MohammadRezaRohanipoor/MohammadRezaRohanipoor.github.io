@@ -211,7 +211,7 @@ In this project, I'm interested in understanding how people with vision impairme
 *<b>2018–2020</b>*<br> 
 *<b>Researcher</b>*<br>
 *<b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran.*    
-*Contributed in a research project.*<br><br>
+*Contributed in one research project.*<br><br>
 
 
 
