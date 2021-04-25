@@ -483,9 +483,9 @@ Department of Computer Engineering<br>
 Shahid Bahonr University of Kerman<br>
 <b>Email</b>: m.r.rohanipour@eng.uk.ac.ir<br><br>  
 
-*Google Scholar: [link](https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}*
-*Researchgate: [link](https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor){:target="_blank"}*
-*LinkedIn: [link](https://www.linkedin.com/in/mohammad-reza-rohanipoor/){:target="_blank"}*
+*<b>Google Scholar</b>: [link](https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}*<br>
+*<b>Researchgate</b>: [link](https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor){:target="_blank"}*<br>
+*<b>LinkedIn</b>: [link](https://www.linkedin.com/in/mohammad-reza-rohanipoor/){:target="_blank"}*<br>
 
 
 <style type="text/css">
