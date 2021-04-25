@@ -481,7 +481,7 @@ In this project, I'm interested in understanding how people with vision impairme
 *Reliable Embedded System Design Laboratory (RESD)*<br>
 *Department of Computer Engineering*<br>
 *Shahid Bahonr University of Kerman*<br>
-*<b>Email</b>: m.r.rohanipour@eng.uk.ac.ir*<br><br>  
+*<b>Email</b>: m.r.rohanipour@eng.uk.ac.ir*<br>  
 
 *<b>Google Scholar</b>: [link](https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}*<br>
 *<b>Researchgate</b>: [link](https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor){:target="_blank"}*<br>
