@@ -178,8 +178,12 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 
 
+
+
+
+
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="skill">Skill </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="achievement">Achievement </h2>
 
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
@@ -204,9 +208,8 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 
 
-
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="award">Award </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="my-skills">My Skills </h2>
 
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
@@ -228,13 +231,6 @@ In this project sponsored by [Toyota Collaborative Safety Research Center](https
 Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
 
 ---
-
-
-
-
-
-
-
 
 
 

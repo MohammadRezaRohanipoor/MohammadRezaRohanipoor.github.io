@@ -89,10 +89,10 @@ menu:
     url:               /#publication
   - title:             Experience
     url:               /#experience 
-  - title:             Skill
-    url:               /#skill
-  - title:             Award
-    url:               /#award 
+  - title:             Achievement
+    url:               /#achievement 
+  - title:             My Skills
+    url:               /#my-skills
   - title:             Contact
     url:               /#contact-me
 #   - title:             Blog
