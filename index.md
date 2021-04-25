@@ -218,6 +218,30 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
+
+<h3 class="h2">Teaching Experience</h3> 
+*<b>2015–2026</b>*<br> 
+*<b>Laboratory Instructor</b>*<br>
+*Department of Computer Engineering, Shahid Bahonar Universityof Kerman.*    
+*Computer Architecture Laboratory*<br><br>
+
+
+
+
+
+<h3 class="h2">Scientific Workshop</h3> 
+*<b>2014</b>*<br> 
+*Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>).*<br>
+*<b>Sharif University of Technology</b>, Tehran, Iran*<br>
+
+*<b>2013</b>*<br> 
+*Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>).*<br>
+*<b>Sharif University of Technology</b>, Tehran, Iran*<br><br>
+
+
+
+
+
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
 *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
