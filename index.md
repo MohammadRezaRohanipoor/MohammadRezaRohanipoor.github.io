@@ -195,6 +195,22 @@ In this project, I'm interested in understanding how people with vision impairme
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="experience">Experience </h2>
 
+
+<h3 class="h2">Research Experience</h3>
+***2014–present**
+*<b>Research Assistant</b>,Reliable Embedded System Design Laboratory (<b>RESD</b>), Shahid Bahonar University of Kerman, Iran. <br>   
+*<b>Contributed</b> in 3 projects and 10 <b>papers</b> [J1-J3][C1-C7].
+
+
+
+
+
+
+
+
+
+
+
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
 *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
