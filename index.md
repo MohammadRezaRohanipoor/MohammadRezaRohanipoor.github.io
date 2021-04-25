@@ -1,7 +1,7 @@
 ---
 layout: page
 name: index
-title: Personal Website
+title: Rohanipoor
 description: >
   Personal Website of Mohammad Reza Rohanipoor.
 hide_description: true
