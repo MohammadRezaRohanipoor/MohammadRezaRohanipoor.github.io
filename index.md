@@ -63,7 +63,7 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 *<b>University:</b> Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.*<br> 
 *<b>Thesis Title:</b> Soft Error Rate Reduction of Digital Systems Considering Masking Effects (<b>19.75/20</b>).*<br> 
 *<b>Advisors:</b> Professor Behnam Ghavami, Professor Mohsen Raji.*<br> 
-<b>Selected Courses and GPAs:</b> Advanced Computer Architecture(19/20), Parallel Systems Architecture(19/20), Fault Tolerant System Design(18.75/20), Advance VLSI Systems Design(18/20).
+*<b>Selected Courses and GPAs:</b> Advanced Computer Architecture (19/20), Parallel Systems Architecture (19/20), Fault Tolerant System Design (18.75/20), Advance VLSI Systems Design (18/20).*<br> 
 
 <!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
 
@@ -77,7 +77,9 @@ In this project, I'm interested in understanding how people with vision impairme
 **B.Sc. in Computer Engineering, Computer Hardware**  
 *<b>University:</b> Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.*<br> 
 *<b>Thesis Title:</b> Design of Image Encryption/Decryption Modules Using AES Algorithm and VHDL (<b>19.5/20</b>).*<br> 
-*<b>Advisors:</b> Professor Vahid Jamshidi.*
+*<b>Advisors:</b> Professor Vahid Jamshidi.*<br> 
+*<b>Selected Courses and GPAs:</b> Computer Aid Digital System Design (20/20).*<br> 
+
 <!-- *<b>Thesis Title</b>: Design and Implementation of Image Encryption and Decryption Modules Using AES Encryption Algorithm based on VHDL Language (<b>19.5/20</b>).*<br>  -->
 
 
