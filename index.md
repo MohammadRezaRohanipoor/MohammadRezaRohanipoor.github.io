@@ -393,11 +393,9 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
-<h3 class="h2">Programming Languages:</h3> 
-*<b>C, C++, C-sharp, Python, Matlab</b>*<br> 
-*<b>Research Assistant</b>*<br>
-*<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*    
-*Contributed in some projects and papers [1-10].*<br>
+*<b>Programming Languages:</b>*
+* C, C++, C-sharp, Python, Matlab*<br>
+
 
 
 
