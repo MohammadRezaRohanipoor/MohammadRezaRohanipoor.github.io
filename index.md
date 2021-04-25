@@ -39,7 +39,7 @@ Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http:
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
 
 My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with disabilities.  
-
+-->
 
 <div class="body-social sidebar-social">
   <ul>
