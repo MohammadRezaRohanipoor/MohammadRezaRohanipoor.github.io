@@ -104,7 +104,7 @@ In this project, I'm interested in understanding how people with vision impairme
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
-<h3 class="h2">My Research Interests Are:</h3>
+<h3 class="h2">Research Interests:</h3>
 
 * **Reliable Circuits Design** 
 * **Electronic Design Automation**
@@ -114,6 +114,21 @@ In this project, I'm interested in understanding how people with vision impairme
 * **Parallel Processing**
 * **Computer Vision**
 * **Deep Learning**<br> <br>
+
+
+
+
+<h3 class="h2">Previous Research Projects:</h3>
+
+* **SET-based SER Mitigation Considering Electrical Masking** 
+* **SET-based SER Mitigation Considering Logical Masking**
+* **MET-based SER Mitigation Considering Logical Masking**
+* **High-Speed I/O Interface in FPGA**
+* **Image Processing Using VHDL**<br> <br>
+
+
+
+
 
 <!-- **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**   -->
 <!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
@@ -201,7 +216,16 @@ In this project, I'm interested in understanding how people with vision impairme
 <h2 class="h1" style="color: rgb(1,92,171)" id="experience">Experience </h2>
 
 
-<h3 class="h2">Research Experience</h3> 
+
+<h3 class="h2">Research Collaboration</h3> 
+*<b>2014–present</b>*<br> 
+*<b>Research Assistant</b>*<br>
+*<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*    
+*Contributed in some projects and papers [1-10].*<br>
+
+
+
+<h3 class="h2">Research Collaboration</h3> 
 *<b>2014–present</b>*<br> 
 *<b>Research Assistant</b>*<br>
 *<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*    
