@@ -136,6 +136,9 @@ In this project, I'm interested in understanding how people with vision impairme
 ---
 
 
+
+---
+
 <h2 class="h1" style="color: rgb(1,92,171)" id="publication">Publication </h2>
 
 <h3 class="h2">Journal Papers</h3>
@@ -191,7 +194,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
-
+---
 
 
 ---
