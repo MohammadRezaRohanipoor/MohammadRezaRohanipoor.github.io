@@ -111,32 +111,32 @@ In this project, I'm interested in understanding how people with vision impairme
 * **Hardware/Software co-design**
 * **Parallel Processing**
 * **Computer Vision**
-* **Deep Learning**
+* **Deep Learning**<br> <br>
 
-**ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
+<!-- **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**   -->
+<!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
 
-In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
+<!-- In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow. -->
 
 
-<h3 class="h2">Past Projects</h3>
-**DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
-*Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
+<!-- <h3 class="h2">Past Projects</h3> -->
+<!-- **DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**     -->
+<!-- *Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}* -->
 
-In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
-<br/>
-**DEVELOPMENT OF TESTING METHODS FOR VEHICLE ROAD DEPARTURE MITIGATION SYSTEMS**  
-*Advisor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}*
+<!-- In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.   -->
+<!-- <br/> -->
+<!-- **DEVELOPMENT OF TESTING METHODS FOR VEHICLE ROAD DEPARTURE MITIGATION SYSTEMS**   -->
+<!-- *Advisor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}* -->
 
-In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.  
-Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
+<!-- In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.   -->
+<!-- Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}] -->
 
 ---
 
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="publication">Publication </h2>
 
-<h3 class="h2">Peer-reviewed Conference Papers</h3>
+<h3 class="h2">Journal Article</h3>
 
 * **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
 <span class="icon-award" aria-hidden="true"></span> **Best Paper Nominee**   
@@ -151,23 +151,23 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 * **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
   
   
-<h3 class="h2">Journal Article</h3>
+<h3 class="h2">Conference Papers</h3>
 
 <!-- * Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Wiley](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]   -->  
 <ul><li><p>Tahsin Reasat, <strong>Abir Saha</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
 
 
-<h3 class="h2">Short Paper</h3>
+<!-- <h3 class="h2">Short Paper</h3> -->
 
-<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>CHI ’21: ACM Conference on Human Factors in Computing Systems</em>, May 08–13, 2021, Online Virtual Conference.</p></li></ul>
+<!-- <ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>CHI ’21: ACM Conference on Human Factors in Computing Systems</em>, May 08–13, 2021, Online Virtual Conference.</p></li></ul> -->
   
   
-<h3 class="h2">Patents</h3>
+<!-- <h3 class="h2">Patents</h3> -->
 
-* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for concrete divider. *US Patent 10597835*, March 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10597835.PN.){:target="_blank"}]   
+<!-- * Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for concrete divider. *US Patent 10597835*, March 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10597835.PN.){:target="_blank"}]    -->
   
   
-* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]  
+<!-- * Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]   -->
   
 
 
