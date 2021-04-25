@@ -241,6 +241,37 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
+<h3 class="h2">Summer School</h3> 
+*<b>2014</b>*<br> 
+*The 4th summer school on interdisciplinary science.*<br>
+*<b>Shiraz University</b>, Shiraz, Iran*<br>
+
+*<b>2013</b>*<br> 
+*The 3th summer school on interdisciplinary science.*<br>
+*<b>Shiraz University</b>, Shiraz, Iran*<br><br>
+
+
+
+<h3 class="h2">Membership</h3> 
+
+*<b>2017</b>*<br> 
+*Graduate student member,Computer Society of Iran, Tehran, Iran.*<br>
+*Graduate student member*<br>
+
+*<b>2017</b>*<br> 
+*Graduate student member,Informatics Society of Iran, Tehran, Iran.*<br>
+*Graduate student member*<br>
+
+*<b>2017</b>*<br> 
+*Iranian Society of Information Communication Technology, Tehran, Iran.*<br>
+*Graduate student member<br>
+
+*<b>2017</b>*<br> 
+*Graduate student member,Iranian Society of Cryptology, Tehran, Iran.*<br>
+*Graduate student member*<br><br>
+
+
+
 
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
