@@ -49,26 +49,60 @@ author:
   # Used by `jekyll-seo-tag`:
   # twitter:             abirsaha_
 
+# # Add links to the sidebar.
+# menu:
+  # - title:             ABOUT ME
+    # url:               /#about
+  # - title:             EDUCATION
+    # url:               /#education
+  # - title:             RESEARCH
+    # url:               /#research
+  # - title:             PUBLICATION
+    # url:               /#publication
+  # - title:             EXPERIENCE
+    # url:               /#experience 
+  # - title:             SKILL
+    # url:               /#skill
+  # - title:             AWARD
+    # url:               /#award 
+  # - title:             CONTACT
+    # url:               /#contact-me
+# #   - title:             Blog
+# #     url:               /blog
+
+
+
+
+
+
+
+
 # Add links to the sidebar.
 menu:
-  - title:             ABOUT
+  - title:             About Me
     url:               /#about
-  - title:             EDUCATION
+  - title:             Education
     url:               /#education
-  - title:             RESEARCH
+  - title:             Research
     url:               /#research
-  - title:             PUBLICATION
+  - title:             Publication
     url:               /#publication
-  - title:             EXPERIENCE
+  - title:             Experience
     url:               /#experience 
-  - title:             SKILL
+  - title:             Skill
     url:               /#skill
-  - title:             AWARD
+  - title:             Award
     url:               /#award 
-  - title:             CONTACT
+  - title:             Contact
     url:               /#contact-me
 #   - title:             Blog
 #     url:               /blog
+
+
+
+
+
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
