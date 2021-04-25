@@ -197,7 +197,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 <h3 class="h2">Research Experience</h3> 
-*2014–present*<br> 
+*<b>2014–present</b>*<br> 
 *<b>Research Assistant</b>*<br>
 *Reliable Embedded System Design Laboratory (<b>RESD</b>), Shahid Bahonar University, Iran.*    
 *Contributed in some projects and 10 papers [J1-J3][C1-C7].*<br>
