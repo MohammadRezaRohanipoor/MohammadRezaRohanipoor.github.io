@@ -478,18 +478,18 @@ In this project, I'm interested in understanding how people with vision impairme
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact </h2>
-
-Northwestern University  
-Frances Searle Building  #2-431  
-2240 Campus Drive  
-Evanston, IL 60208, USA
-
+Reliable Embedded System Design Laboratory (RESD)
+Department of Computer Engineering
+Shahid Bahonr University of Kerman
+<b>Email</b>: m.r.rohanipour@eng.uk.ac.ir  
 
 
 
 
 
-<p class="home-element"><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p>
+
+
+<!-- <p class="home-element"><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p> -->
 
 <style type="text/css">
   .body-social > ul {
