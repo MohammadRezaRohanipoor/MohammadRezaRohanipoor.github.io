@@ -273,7 +273,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 *<b>2017</b>*<br> 
 *Iranian Society of Information Communication Technology, Tehran, Iran.*<br>
-*Graduate student member*<br>
+*Graduate student member*<br><br>
 
 
 
