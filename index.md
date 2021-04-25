@@ -24,7 +24,7 @@ hide_description: true
 </style>
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
-My name is Mohammad Reza Rohanipoor. I am a researcher in Reliable Embedded System Design Laboratory (RESD) leading by Professor Behnam Ghavami. I received my MSc degree in Computer Aichitecture Engineering from Shahid Bahonar University of Kerman (SBUK), Iran, in 2017.  Previously, I received the BSc degree in Computer Hardware Engineering from SBUK, in 2013. 
+My name is Mohammad Reza Rohanipoor. I am a researcher in Reliable Embedded System Design Laboratory (RESD) leading by <b>Professor Behnam Ghavami</b>. I received my MSc degree in Computer Aichitecture Engineering from Shahid Bahonar University of Kerman (SBUK), Iran, in 2017.  Previously, I received the BSc degree in Computer Hardware Engineering from SBUK, in 2013. 
 
 As a result of my successful Master's education and because of my research achievements, I became a member of Iran's National Elites Foundation (INEF), in 2017. My research interests include Reliable Systems, Computer Architecture, Digital Systems Design, Embedded Systems, Parallel Processing, and Deep Learning.
 
