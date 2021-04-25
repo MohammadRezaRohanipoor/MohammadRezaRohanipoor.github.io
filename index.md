@@ -104,14 +104,14 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">My Research Interests Are:</h3>
 
-**Reliable Circuits Design** 
-**Electronic Design Automation**
-**Computer Architecture**
-**Digital System Design**
-**Hardware/Software Co-design**
-**Parallel Processing**
-**Computer Vision**
-**Deep Learning**<br> <br>
+* **Reliable Circuits Design** 
+* **Electronic Design Automation**
+* **Computer Architecture**
+* **Digital System Design**
+* **Hardware/Software Co-design**
+* **Parallel Processing**
+* **Computer Vision**
+* **Deep Learning**<br> <br>
 
 <!-- **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**   -->
 <!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
