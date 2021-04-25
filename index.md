@@ -226,11 +226,11 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
-<h3 class="h2">Research Collaboration</h3> 
-*<b>2014–present</b>*<br> 
-*<b>Research Assistant</b>*<br>
-*<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*    
-*Contributed in some projects and papers [1-10].*<br>
+<!-- <h3 class="h2">Research Collaboration</h3>  -->
+<!-- *<b>2014–present</b>*<br>  -->
+<!-- *<b>Research Assistant</b>*<br> -->
+<!-- *<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*     -->
+<!-- *Contributed in some projects and papers [1-10].*<br> -->
 
 
 
@@ -390,24 +390,37 @@ In this project, I'm interested in understanding how people with vision impairme
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="my-skills">My Skills </h2>
 
-<h3 class="h2">Current Projects</h3>
-**ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
-
-In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
 
 
-<h3 class="h2">Past Projects</h3>
-**DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
-*Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
 
-In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
-<br/>
-**DEVELOPMENT OF TESTING METHODS FOR VEHICLE ROAD DEPARTURE MITIGATION SYSTEMS**  
-*Advisor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}*
+<h3 class="h2">Programming Languages:</h3> 
+*<b>C, C++, C-sharp, Python, Matlab</b>*<br> 
+*<b>Research Assistant</b>*<br>
+*<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*    
+*Contributed in some projects and papers [1-10].*<br>
 
-In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.  
-Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
+
+
+
+
+<!-- <h3 class="h2">Current Projects</h3> -->
+<!-- **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**   -->
+<!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
+
+<!-- In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow. -->
+
+
+<!-- <h3 class="h2">Past Projects</h3> -->
+<!-- **DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**     -->
+<!-- *Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}* -->
+
+<!-- In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.   -->
+<!-- <br/> -->
+<!-- **DEVELOPMENT OF TESTING METHODS FOR VEHICLE ROAD DEPARTURE MITIGATION SYSTEMS**   -->
+<!-- *Advisor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}* -->
+
+<!-- In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.   -->
+<!-- Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}] -->
 
 ---
 
