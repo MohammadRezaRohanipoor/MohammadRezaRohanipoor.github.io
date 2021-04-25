@@ -400,7 +400,7 @@ In this project, I'm interested in understanding how people with vision impairme
 * *VHDL, Verilog*<br><br>
 
 **Development Tools** 
-* *Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br><br>
+* *Xilinx Vivado, Xilinx ISE, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br><br>
 
 **FPGAs and Microcontrollers**
 * *Xilinx FPGAs, Altera FPGAs, TI DSPs, ARM, AVR*<br><br>
@@ -429,26 +429,26 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
-<h3 class="h2">Programming Languages</h3> 
-* *C, C++, C-sharp, Python, Matlab*<br><br>
+<!-- <h3 class="h2">Programming Languages</h3>  -->
+<!-- * *C, C++, C-sharp, Python, Matlab*<br><br> -->
 
-<h3 class="h2">HDL Languages</h3> 
-* *VHDL, Verilog*<br><br>
+<!-- <h3 class="h2">HDL Languages</h3>  -->
+<!-- * *VHDL, Verilog*<br><br> -->
 
-<h3 class="h2">Development Tools</h3> 
-* *Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br><br>
+<!-- <h3 class="h2">Development Tools</h3>  -->
+<!-- * *Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br><br> -->
 
-<h3 class="h2">FPGAs and Microcontrollers</h3> 
-* *Xilinx FPGAs, Altera FPGAs, TI DSPs, ARM, AVR*<br><br>
+<!-- <h3 class="h2">FPGAs and Microcontrollers</h3>  -->
+<!-- * *Xilinx FPGAs, Altera FPGAs, TI DSPs, ARM, AVR*<br><br> -->
 
-<h3 class="h2">Development Boards</h3> 
-* *Digilent Atlys, Altera DE1, TI TMDSEVM6678, Raspberry Pi4, Arduino Mega 2560, Arduino Uno*<br><br>
+<!-- <h3 class="h2">Development Boards</h3>  -->
+<!-- * *Digilent Atlys, Altera DE1, TI TMDSEVM6678, Raspberry Pi4, Arduino Mega 2560, Arduino Uno*<br><br> -->
 
-<h3 class="h2">Other Tools</h3> 
-* *Microsoft Visual Studio, SQL Server, Microsoft Office*<br><br>
+<!-- <h3 class="h2">Other Tools</h3>  -->
+<!-- * *Microsoft Visual Studio, SQL Server, Microsoft Office*<br><br> -->
 
-<h3 class="h2">Operating Systems</h3> 
-* *Microsoft Windows, Ubuntu*<br><br>
+<!-- <h3 class="h2">Operating Systems</h3>  -->
+<!-- * *Microsoft Windows, Ubuntu*<br><br> -->
 
 
 
