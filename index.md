@@ -60,7 +60,7 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 
 <h3 class="h2">2014-2016</h3>
 **M.Sc. in Computer Engineering, Computer Architecture**  
-*<b>Place</b>*: Department of ComputerEngineering, Shahid Bahonar University of Kerman, Kerman, Iran. 
+*<b>Place</b>*: Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran. 
 *<b>Advisors</b>*: Professor Behnam Ghavami, Professor Mohsen Raji.
 <!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
 
