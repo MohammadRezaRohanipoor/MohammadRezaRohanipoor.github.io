@@ -65,6 +65,11 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 *<b>Advisors</b>*: Professor Behnam Ghavami, Professor Mohsen Raji.
 <!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
 
+<b>University</b>: Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.<br> 
+<b>Thesis Title</b>: Soft Error Rate Reduction of Digital Systems Considering Masking Effects (19.75/20).<br> 
+<b>Advisors</b>: Professor Behnam Ghavami, Professor Mohsen Raji.
+
+
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
 
 
