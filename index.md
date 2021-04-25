@@ -393,8 +393,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
-*<b>Programming Languages:</b>*
-* C, C++, C-sharp, Python, Matlab*<br>
+*<b>Programming Languages:</b> C, C++, C-sharp, Python, Matlab*<br>
 
 
 
