@@ -138,9 +138,9 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Journal Article</h3>
 
-[J1] **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Improving Combina-tional Circuit Reliability Against Multiple Event Transients via a Partition and RestructuringApproach",**IEEE Transactions on Computer-Aided Design of Integrated Circuitsand Systems (TCAD)**,2020.
-[J2] **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Soft Error TolerantDesign of Combinational Circuits based on a Local Logic Substitution Scheme",**Microelectronics Journal**,2017.
-[J3] **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Soft Error TolerantDesign of Combinational Circuits using a Local Logic Substitution Scheme",**Electronics Industries Journal**,2017 (In Persian).
+**[J1]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Improving Combina-tional Circuit Reliability Against Multiple Event Transients via a Partition and RestructuringApproach",**IEEE Transactions on Computer-Aided Design of Integrated Circuitsand Systems (TCAD)**,2020.<br>
+**[J2]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Soft Error TolerantDesign of Combinational Circuits based on a Local Logic Substitution Scheme",**Microelectronics Journal**,2017.<br>
+**[J3]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Soft Error TolerantDesign of Combinational Circuits using a Local Logic Substitution Scheme",**Electronics Industries Journal**,2017 (In Persian).<br>
 
 
 <!-- * **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.    -->
