@@ -393,25 +393,25 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
-**Software Programming Languages:**
+**Software Programming Languages:**<br>
 *C, C++, C-sharp, Python, Matlab*<br>
 
-**Hardware Description Languages:**
+**Hardware Description Languages:**<br>
 *VHDL, Verilog*<br>
 
-**Development Tools:** 
+**Development Tools:** <br>
 *Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br>
 
-**FPGAs and Microcontrollers:**
+**FPGAs and Microcontrollers:**<br>
 *Xilinx FPGAs, Altera FPGAs, TI DSPs, ARM, AVR*<br>
 
-**Development Boards:**
+**Development Boards:**<br>
 *Digilent Atlys, Altera DE1, TI TMDSEVM6678, Raspberry Pi4, Arduino Mega 2560, Arduino Uno*<br>
 
-**Other Softwares:**
+**Other Softwares:**<br>
 *Microsoft Visual Studio, SQL Server, Microsoft Office*<br>
 
-**Operating Systems:**
+**Operating Systems:**<br>
 *Microsoft Windows, Ubuntu*<br><br>
 
 
