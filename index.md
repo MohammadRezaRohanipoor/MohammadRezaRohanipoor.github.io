@@ -62,7 +62,7 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 **M.Sc. in Computer Engineering, Computer Architecture (18.05/20)**  
 *<b>University:</b> Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.*<br> 
 *<b>Thesis Title:</b> Soft Error Rate Reduction of Digital Systems Considering Masking Effects (<b>19.75/20</b>).*<br> 
-*<b>Advisors:</b> Professor Behnam Ghavami, Professor Mohsen Raji.*
+*<b>Advisors:</b> Professor Behnam Ghavami, Professor Mohsen Raji.*<br> 
 <b>Selected Courses and GPAs:</b> Advanced Computer Architecture(19/20), Parallel Systems Architecture(19/20), Fault Tolerant System Design(18.75/20), Advance VLSI Systems Design(18/20).
 
 <!-- *Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}* -->
