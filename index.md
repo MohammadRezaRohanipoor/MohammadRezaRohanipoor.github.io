@@ -119,10 +119,10 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Previous Research Projects:</h3>
 
-* **Soft Error Rate Mitigation of digital circuits in Presence of Single Event Transients Considering Electrical Masking** 
-* **Soft Error Rate Mitigation of digital circuits in Presence of Single Event Transients Considering Logical Masking**
-* **Soft Error Rate Mitigation of digital circuits in Presence of Mingle Event Transients Considering Logical Masking**
-* **High-Speed Communication Interface in Xilinx FPGA**
+* **SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking** 
+* **SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking**
+* **MET-based Soft Error Rate (SER) Mitigation Considering Logical Masking**
+* **High-Speed Communication Interface in Xilinx FPGAs**
 * **Image Processing Using AES Algorithm and VHDL**<br> <br>
 
 
