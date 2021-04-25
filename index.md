@@ -108,7 +108,7 @@ In this project, I'm interested in understanding how people with vision impairme
 * **Electronic Design Automation**
 * **Computer Architecture**
 * **Digital System Design**
-* **Hardware/Software co-design**
+* **Hardware/Software Co-design**
 * **Parallel Processing**
 * **Computer Vision**
 * **Deep Learning**<br> <br>
@@ -138,17 +138,22 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Journal Article</h3>
 
-* **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
-<span class="icon-award" aria-hidden="true"></span> **Best Paper Nominee**   
+[J1] **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Improving Combina-tional Circuit Reliability Against Multiple Event Transients via a Partition and RestructuringApproach",**IEEE Transactions on Computer-Aided Design of Integrated Circuitsand Systems (TCAD)**,2020.
+[J2] **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Soft Error TolerantDesign of Combinational Circuits based on a Local Logic Substitution Scheme",**Microelectronics Journal**,2017.
+[J3] **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Soft Error TolerantDesign of Combinational Circuits using a Local Logic Substitution Scheme",**Electronics Industries Journal**,2017 (In Persian).
+
+
+<!-- * **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.    -->
+<!-- <span class="icon-award" aria-hidden="true"></span> **Best Paper Nominee**    -->
   
 
-* Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
+<!-- * Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]    -->
   
 
-* Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://abirsh.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]   
+<!-- * Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://abirsh.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]    -->
   
 
-* **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
+<!-- * **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]    -->
   
   
 <h3 class="h2">Conference Papers</h3>
