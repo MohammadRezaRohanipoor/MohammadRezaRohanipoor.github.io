@@ -70,6 +70,14 @@ My research interests include Reliable Systems, Computer Architecture, Digital S
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
  -->
 
+
+<h3 class="h2">2014-2016</h3>
+**M.Sc. in Computer Engineering, Computer Hardware**  
+*<b>University</b>: Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.*<br> 
+*<b>Thesis Title</b>: Design and Implementation of Image Encryption and Decryption Modules Using AESEncryption Algorithm based on VHDL Language (<b>19.5/20</b>).*<br> 
+*<b>Advisors</b>: Vahid Jamshidi.*
+
+
 <h3 class="h2">Past Projects</h3>
 **DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
 *Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
