@@ -354,7 +354,7 @@ In this project, I'm interested in understanding how people with vision impairme
 *Received <b>full Scholarship</b> for Masters degree (Tuition waiver)*<br>
 *Shahid Bahonar University, Iran*<br>
 
-*<b>2019</b>*<br> 
+*<b>2009</b>*<br> 
 *Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver)*<br>
 *Shahid Bahonar University, Iran*<br><br>
 
