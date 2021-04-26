@@ -221,7 +221,7 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 **[7]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "A Review on Soft Error Tolerant Techniques in Different Levels of Digital Systems",The 5th International Conference on Sciences, Engineering and Technology Innovations (icset2017), Shiraz, Iran, 2017 (In Persian)<br><br>
 **[8]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "A Review on the Soft Error Rate Reduction Methods of the Digital Circuits in the Presence of Single Event Transients (SETs)",The 5th International Conference on Sciences, Engineering and Technology Innovations (icset2017), Shiraz, Iran, 2017 (In Persian).<br><br>
 **[9]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Evaluating the Reliability of Digital Systems Against Soft Error based on Fault Injection Methods",The 4th International Conference on Modern Finding in Sciences and Technology (dsconf2017), Ghom, Iran, 2017 (In Persian).<br><br>
-**[10]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Methods of Estimating the Soft Error Rate of Digital Circuits",The 4th International Conference on Modern Finding in Sciences and Technology (dsconf2017), Ghom, Iran, 2017 (In Persian).<br><br><br>
+**[10]** **Mohammad Reza Rohanipoor**, Behnam Ghavami, Mohsen Raji, "Methods of Estimating the Soft Error Rate of Digital Circuits",The 4th International Conference on Modern Finding in Sciences and Technology (dsconf2017), Ghom, Iran, 2017 (In Persian).<br><br>
 
 <!-- * Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Wiley](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]   -->  
 <!-- <ul><li><p>Tahsin Reasat, <strong>Abir Saha</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul> -->
@@ -319,10 +319,10 @@ Contributed in one research project.<br><br>
 
 <h3 class="h2">Scientific Workshop</h3> 
 <b>2014</b><br> 
-Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>), <b>Sharif University of Technology</b>, Tehran, Iran<br>
+Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>), <b>Sharif University of Technology</b>, Tehran, Iran.<br>
 
 <b>2013</b><br> 
-Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>), <b>Sharif University of Technology</b>, Tehran, Iran<br><br>
+Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>), <b>Sharif University of Technology</b>, Tehran, Iran.<br><br>
 
 
 
