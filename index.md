@@ -321,16 +321,16 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 <h3 class="h2">Membership</h3> 
 
 <b>2017</b><br> 
-Graduate student member, Computer Society of Iran, Tehran, Iran.<br>
+Graduate student member, <b>Computer Society of Iran</b>, Tehran, Iran.<br>
 
 <b>2017</b><br> 
-Graduate student member, Informatics Society of Iran, Tehran, Iran.<br>
+Graduate student member, <b>Informatics Society of Iran</b>, Tehran, Iran.<br>
 
 <b>2017</b><br> 
-Graduate student member, Iranian Society of Cryptology, Tehran, Iran.<br>
+Graduate student member, <b>Iranian Society of Cryptology</b>, Tehran, Iran.<br>
 
 <b>2017</b><br> 
-Graduate student member, Iranian Society of Information Communication Technology, Tehran, Iran.<br><br>
+Graduate student member, <b>Iranian Society of Information Communication Technology</b>, Tehran, Iran.<br><br>
 
 
 
@@ -392,16 +392,16 @@ Graduate student member, Iranian Society of Information Communication Technology
 
 
 <b>2017</b><br> 
-Selected as a member of <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran<br>
+Selected as a member of <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran.<br>
 
 <b>2016</b><br> 
-<b>Ranked second</b> GPA among my Masters graduation class (30 students), Shahid Bahonar University, Iran<br>
+<b>Ranked second</b> GPA among my Masters graduation class (30 students), Shahid Bahonar University, Iran.<br>
 
 <b>2014</b><br> 
-Received <b>full Scholarship</b> for Masters degree (Tuition waiver), Shahid Bahonar University, Iran<br>
+Received <b>full Scholarship</b> for Masters degree (Tuition waiver), Shahid Bahonar University, Iran.<br>
 
 <b>2009</b><br> 
-Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver), Shahid Bahonar University, Iran<br><br>
+Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver), Shahid Bahonar University, Iran.<br><br>
 
 
 
