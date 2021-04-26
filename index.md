@@ -538,7 +538,7 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
   .body-social > ul > li > a {
     display: inline;
     text-align: center;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     font-weight: 600;
     /*width: 3rem;*/
     /*height: 4rem;*/
