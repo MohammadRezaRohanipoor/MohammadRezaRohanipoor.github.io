@@ -108,6 +108,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Research Interests:</h3>
 
+<p>
 <ul>
 <li>Reliable Circuits Design</li><br> 
 <li>Electronic Design Automation</li><br>
@@ -118,6 +119,7 @@ In this project, I'm interested in understanding how people with vision impairme
 <li>Computer Vision</li><br>
 <li>Deep Learning</li><br> <br>
 </ul>
+</p>
 
 <!-- * Reliable Circuits Design  -->
 <!-- * Electronic Design Automation -->
@@ -130,7 +132,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 
-<h3 class="h2">Previous Research Projects:</h3>
+<h3 class="h2">Research Projects:</h3>
 
 SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking<br> 
 SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking<br>
