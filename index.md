@@ -592,9 +592,20 @@ Department of Computer Engineering<br>
 Shahid Bahonr University of Kerman<br><br>
 <b>Email</b>: m.r.rohanipour@eng.uk.ac.ir<br>  
 
-<b>Google Scholar</b>: [link](https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}<br>
-<b>Researchgate</b>: [link](https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor){:target="_blank"}<br>
-<b>LinkedIn</b>: [link](https://www.linkedin.com/in/mohammad-reza-rohanipoor/){:target="_blank"}<br>
+
+<div class="body-social sidebar-social">
+  <ul>
+    <li> <a href="https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span></a></li>
+    <li> <a href="https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor" title="Researchgate" class="no-mark-external" target="_blank"> <span class="icon-researchgate"></span> <span aria-hidden="true">Researchgate </span></a></li>
+    <li> <a href="https://www.linkedin.com/in/mohammad-reza-rohanipoor-b753b51b8/" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span></a></li>
+    <!-- <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li> -->
+  </ul>
+</div>
+
+
+<!-- <b>Google Scholar</b>: [link](https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}<br> -->
+<!-- <b>Researchgate</b>: [link](https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor){:target="_blank"}<br> -->
+<!-- <b>LinkedIn</b>: [link](https://www.linkedin.com/in/mohammad-reza-rohanipoor/){:target="_blank"}<br> -->
 
 
 <style type="text/css">
