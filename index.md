@@ -108,7 +108,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Research Interests:</h3>
 
-- Reliable Circuits Design<br> 
+Reliable Circuits Design<br> 
 Electronic Design Automation<br>
 Computer Architecture<br>
 Digital System Design<br>
@@ -130,9 +130,9 @@ Deep Learning<br> <br>
 
 <h3 class="h2">Previous Research Projects:</h3>
 
-SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking<br> 
-SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking<br>
-MET-based Soft Error Rate (SER) Mitigation Considering Logical Masking<br>
+Soft Error Rate (SER) Mitigation in Presence of Single Event Transients (SETs) Considering Electrical Masking<br> 
+Soft Error Rate (SER) Mitigation in Presence of Single Event Transients (SETs) Considering Logical Masking<br>
+Soft Error Rate (SER) Mitigation in Presence of Multiple Event Transients (METs) Considering Logical Masking<br>
 High-Speed Communication Interface in Xilinx FPGAs<br>
 Image Processing Using AES Algorithm and VHDL<br> <br>
 
