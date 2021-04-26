@@ -108,24 +108,39 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Research Interests:</h3>
 
-- Reliable Circuits Design 
-- Electronic Design Automation
-- Computer Architecture
-- Digital System Design
-- Hardware/Software Co-design
-- Parallel Processing
-- Computer Vision
-- Deep Learning<br> <br>
+Reliable Circuits Design 
+Electronic Design Automation
+Computer Architecture
+Digital System Design
+Hardware/Software Co-design
+Parallel Processing
+Computer Vision
+Deep Learning<br> <br>
+
+<!-- * Reliable Circuits Design  -->
+<!-- * Electronic Design Automation -->
+<!-- * Computer Architecture -->
+<!-- * Digital System Design -->
+<!-- * Hardware/Software Co-design -->
+<!-- * Parallel Processing -->
+<!-- * Computer Vision -->
+<!-- * Deep Learning<br> <br> -->
 
 
 
 <h3 class="h2">Previous Research Projects:</h3>
 
-- SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking 
-- SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking
-- MET-based Soft Error Rate (SER) Mitigation Considering Logical Masking
-- High-Speed Communication Interface in Xilinx FPGAs
-- Image Processing Using AES Algorithm and VHDL<br> <br>
+SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking 
+SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking
+MET-based Soft Error Rate (SER) Mitigation Considering Logical Masking
+High-Speed Communication Interface in Xilinx FPGAs
+Image Processing Using AES Algorithm and VHDL<br> <br>
+
+<!-- * SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking  -->
+<!-- * SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking -->
+<!-- * MET-based Soft Error Rate (SER) Mitigation Considering Logical Masking -->
+<!-- * High-Speed Communication Interface in Xilinx FPGAs -->
+<!-- * Image Processing Using AES Algorithm and VHDL<br> <br> -->
 
 
 
