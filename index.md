@@ -264,7 +264,7 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 <h3 class="h2">Research Collaboration</h3> 
 <b>2014–present</b><br> 
-<b>Research Assistant</b>, <b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran. <br>   
+<b>Research Assistant</b>, <b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran. <br>
 Contributed in some projects and papers [1-10].<br>
  
 
@@ -288,7 +288,7 @@ Contributed in some projects and papers [1-10].<br>
 
 
 <b>2018–2020</b><br> 
-<b>Researcher</b>, <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran. <br>   
+<b>Researcher</b>, <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran. <br>
 Contributed in one research project.<br><br>
 
 
