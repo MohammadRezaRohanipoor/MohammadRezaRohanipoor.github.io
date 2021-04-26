@@ -587,8 +587,8 @@ Microsoft Windows, Ubuntu<br><br>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact </h2>
-Reliable Embedded System Design Laboratory (RESD)<br>
-Department of Computer Engineering<br>
+Reliable Embedded System Design Laboratory (RESD),<br>
+Department of Computer Engineering,<br>
 Shahid Bahonr University of Kerman<br><br>
 <b>Email</b>: m.r.rohanipour@eng.uk.ac.ir<br>  
 
