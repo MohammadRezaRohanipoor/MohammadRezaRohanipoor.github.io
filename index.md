@@ -284,12 +284,17 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 
 
-
 <h3 class="h2">Teaching Experience</h3> 
-*<b>2015–2026</b>*<br> 
-*<b>Laboratory Instructor</b>*<br>
-*Department of Computer Engineering, Shahid Bahonar Universityof Kerman.*    
-*Computer Architecture Laboratory*<br><br>
+<b>2015–2026</b><br> 
+<b>Laboratory Instructor</b>, Computer Architecture Laboratory, Department of Computer Engineering, Shahid Bahonar University of Kerman.<br><br>
+
+
+
+<!-- <h3 class="h2">Teaching Experience</h3>  -->
+<!-- *<b>2015–2026</b>*<br>  -->
+<!-- *<b>Laboratory Instructor</b>*<br> -->
+<!-- *Department of Computer Engineering, Shahid Bahonar Universityof Kerman.*     -->
+<!-- *Computer Architecture Laboratory*<br><br> -->
 
 
 
@@ -297,7 +302,7 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 <h3 class="h2">Scientific Workshop</h3> 
 <b>2014</b><br> 
-Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>),<b>Sharif University of Technology</b>, Tehran, Iran<br><br>
+Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>),<b>Sharif University of Technology</b>, Tehran, Iran<br>
 
 <b>2013</b><br> 
 Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>), <b>Sharif University of Technology</b>, Tehran, Iran<br><br>
@@ -321,8 +326,8 @@ Efficient implementation of digital systems based on Xilinx FPGAs in theory and 
 <b>2014</b><br> 
 The 4th summer school on interdisciplinary science, <b>Shiraz University</b>, Shiraz, Iran.<br>
 
-*<b>2013</b>*<br> 
-*The 3th summer school on interdisciplinary science, <b>Shiraz University</b>, Shiraz, Iran.*<br><br>
+<b>2013</b><br> 
+The 3th summer school on interdisciplinary science, <b>Shiraz University</b>, Shiraz, Iran.<br><br>
 
 
 
