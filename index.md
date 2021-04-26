@@ -263,10 +263,23 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 
 <h3 class="h2">Research Collaboration</h3> 
-*<b>2014–present</b>*<br> 
-*<b>Research Assistant</b>*<br>
-*<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*    
-*Contributed in some projects and papers [1-10].*<br>
+<b>2014–present</b><br> 
+<b>Research Assistant</b>, <b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran. <br>   
+Contributed in some projects and papers [1-10].<br>
+
+
+
+<!-- <h3 class="h2">Research Collaboration</h3>  -->
+<!-- *<b>2014–present</b>*<br>  -->
+<!-- *<b>Research Assistant</b>*<br> -->
+<!-- *<b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran.*     -->
+<!-- *Contributed in some projects and papers [1-10].*<br> -->
+
+
+
+
+
+
 
 <!-- **2014–present**<br>  -->
 <!-- *<b>Research Assistant</b>*<br> -->
@@ -274,13 +287,17 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 <!-- *<b>Contributed</b> in some projects and 10 papers [J1-J3][C1-C7].*<br> -->
 
 
-*<b>2018–2020</b>*<br> 
-*<b>Researcher</b>*<br>
-*<b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran.*    
-*Contributed in one research project.*<br><br>
+<b>2018–2020</b><br> 
+<b>Researcher</b>, <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran. <br>   
+Contributed in one research project.<br><br>
 
 
 
+
+<!-- *<b>2018–2020</b>*<br>  -->
+<!-- *<b>Researcher</b>*<br> -->
+<!-- *<b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran.*     -->
+<!-- *Contributed in one research project.*<br><br> -->
 
 
 
