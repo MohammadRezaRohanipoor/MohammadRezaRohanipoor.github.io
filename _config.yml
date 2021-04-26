@@ -106,14 +106,21 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             Legal
-    url:               /legal
+
+# reza_ch
+# legal:
+  # - title:             Legal
+    # url:               /legal
+    
+    
+    
 #   - title:             Cookies Policy
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020 Abir Saha. All rights reserved.
+
+# reza_ch
+# copyright:             © 2020 Abir Saha. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
