@@ -108,13 +108,13 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Research Interests:</h3>
 
-Reliable Circuits Design 
-Electronic Design Automation
-Computer Architecture
-Digital System Design
-Hardware/Software Co-design
-Parallel Processing
-Computer Vision
+Reliable Circuits Design<br> 
+Electronic Design Automation<br>
+Computer Architecture<br>
+Digital System Design<br>
+Hardware/Software Co-design<br>
+Parallel Processing<br>
+Computer Vision<br>
 Deep Learning<br> <br>
 
 <!-- * Reliable Circuits Design  -->
@@ -130,10 +130,10 @@ Deep Learning<br> <br>
 
 <h3 class="h2">Previous Research Projects:</h3>
 
-SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking 
-SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking
-MET-based Soft Error Rate (SER) Mitigation Considering Logical Masking
-High-Speed Communication Interface in Xilinx FPGAs
+SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking<br> 
+SET-based Soft Error Rate (SER) Mitigation Considering Logical Masking<br>
+MET-based Soft Error Rate (SER) Mitigation Considering Logical Masking<br>
+High-Speed Communication Interface in Xilinx FPGAs<br>
 Image Processing Using AES Algorithm and VHDL<br> <br>
 
 <!-- * SET-based Soft Error Rate (SER) Mitigation Considering Electrical Masking  -->
