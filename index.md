@@ -370,21 +370,21 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 <h2 class="h1" style="color: rgb(1,92,171)" id="achievement">Achievement </h2>
 
 
-*<b>2017</b>*<br> 
-*Selected as a member of <b>Iran’s National Elites Foundation (INEF)</b>*<br>
-*Tehran, Iran*<br>
+<b>2017</b><br> 
+Selected as a member of <b>Iran’s National Elites Foundation (INEF)</b><br>
+Tehran, Iran<br>
 
-*<b>2016</b>*<br> 
-*<b>Ranked second</b> GPA among my Masters graduation class (30 students)*<br>
-*Shahid Bahonar University, Iran*<br>
+<b>2016</b><br> 
+<b>Ranked second</b> GPA among my Masters graduation class (30 students)<br>
+Shahid Bahonar University, Iran<br>
 
-*<b>2014</b>*<br> 
-*Received <b>full Scholarship</b> for Masters degree (Tuition waiver)*<br>
-*Shahid Bahonar University, Iran*<br>
+<b>2014</b><br> 
+Received <b>full Scholarship</b> for Masters degree (Tuition waiver)<br>
+Shahid Bahonar University, Iran<br>
 
-*<b>2009</b>*<br> 
-*Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver)*<br>
-*Shahid Bahonar University, Iran*<br><br>
+<b>2009</b><br> 
+Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver)<br>
+Shahid Bahonar University, Iran<br><br>
 
 
 
