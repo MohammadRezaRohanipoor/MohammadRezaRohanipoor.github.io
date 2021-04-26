@@ -108,7 +108,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Research Interests:</h3>
 
-Reliable Circuits Design<br> 
+- Reliable Circuits Design<br> 
 Electronic Design Automation<br>
 Computer Architecture<br>
 Digital System Design<br>
