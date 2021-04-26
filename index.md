@@ -296,16 +296,22 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 
 <h3 class="h2">Scientific Workshop</h3> 
-*<b>2014</b>*<br> 
-*Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>).*<br>
-*<b>Sharif University of Technology</b>, Tehran, Iran*<br>
+<b>2014</b><br> 
+Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>),<b>Sharif University of Technology</b>, Tehran, Iran<br><br>
 
-*<b>2013</b>*<br> 
-*Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>).*<br>
-*<b>Sharif University of Technology</b>, Tehran, Iran*<br><br>
+<b>2013</b><br> 
+Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>), <b>Sharif University of Technology</b>, Tehran, Iran<br><br>
 
 
 
+<!-- <h3 class="h2">Scientific Workshop</h3>  -->
+<!-- *<b>2014</b>*<br>  -->
+<!-- *Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>).*<br> -->
+<!-- *<b>Sharif University of Technology</b>, Tehran, Iran*<br> -->
+
+<!-- *<b>2013</b>*<br>  -->
+<!-- *Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>).*<br> -->
+<!-- *<b>Sharif University of Technology</b>, Tehran, Iran*<br><br> -->
 
 
 
