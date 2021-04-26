@@ -63,7 +63,7 @@ I love volleyball, mountain climbing, photography, and music.
 <h2 class="h1" style="color: rgb(1,92,171)" id="education">Education </h2>
 
 <h3 class="h2">2014-2016</h3>
-<b>M.Sc. in Computer Engineering, Computer Architecture (18.05/20)<b><br>   
+<b>M.Sc. in Computer Engineering, Computer Architecture (18.05/20)</b><br>   
 <b>University:</b> Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman, Iran.<br> 
 <b>Thesis Title:</b> Soft Error Rate Reduction of Digital Systems Considering Masking Effects (<b>19.75/20</b>).<br> 
 <b>Advisors:</b> Professor Behnam Ghavami, Professor Mohsen Raji.<br> 
