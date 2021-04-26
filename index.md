@@ -78,7 +78,7 @@ In this project, I'm interested in understanding how people with vision impairme
 
 
 <h3 class="h2">2009-2013</h3>
-<b>B.Sc. in Computer Engineering, Computer Hardware</b> 
+<b>B.Sc. in Computer Engineering, Computer Hardware</b> <br> 
 <b>University:</b> Department of Computer Engineering, Shahid Bahonar University of Kerman, Iran.<br> 
 <b>Thesis Title:</b> Design of Image Encryption/Decryption Modules Using AES Algorithm and VHDL (<b>19.5/20</b>).<br> 
 <b>Advisors:</b> Professor Vahid Jamshidi.<br> 
