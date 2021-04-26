@@ -108,18 +108,14 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Research Interests:</h3>
 
-<p>
-<ul>
-<li>Reliable Circuits Design</li><br> 
-<li>Electronic Design Automation</li><br>
-<li>Computer Architecture</li><br>
-<li>Digital System Design</li><br>
-<li>Hardware/Software Co-design</li><br>
-<li>Parallel Processing</li><br>
-<li>Computer Vision</li><br>
-<li>Deep Learning</li><br> <br>
-</ul>
-</p>
+Reliable Circuits Design 
+Electronic Design Automation
+Computer Architecture
+Digital System Design
+Hardware/Software Co-design
+Parallel Processing
+Computer Vision
+Deep Learning<br> <br>
 
 <!-- * Reliable Circuits Design  -->
 <!-- * Electronic Design Automation -->
