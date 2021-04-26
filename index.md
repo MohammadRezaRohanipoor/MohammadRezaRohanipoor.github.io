@@ -266,7 +266,7 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 <b>2014–present</b><br> 
 <b>Research Assistant</b>, <b>Reliable Embedded System Design Laboratory (RESD)</b>, Shahid Bahonar University, Iran. <br>   
 Contributed in some projects and papers [1-10].<br>
-
+ 
 
 
 <!-- <h3 class="h2">Research Collaboration</h3>  -->
@@ -319,7 +319,7 @@ Contributed in one research project.<br><br>
 
 <h3 class="h2">Scientific Workshop</h3> 
 <b>2014</b><br> 
-Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>),<b>Sharif University of Technology</b>, Tehran, Iran<br>
+Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Advance</b>), <b>Sharif University of Technology</b>, Tehran, Iran<br>
 
 <b>2013</b><br> 
 Efficient implementation of digital systems based on Xilinx FPGAs in theory and practice (<b>Intermediate</b>), <b>Sharif University of Technology</b>, Tehran, Iran<br><br>
