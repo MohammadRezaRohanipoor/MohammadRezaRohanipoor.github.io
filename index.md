@@ -371,21 +371,37 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 
 <b>2017</b><br> 
-Selected as a member of <b>Iran’s National Elites Foundation (INEF)</b><br>
-Tehran, Iran<br>
+Selected as a member of <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran<br>
 
 <b>2016</b><br> 
-<b>Ranked second</b> GPA among my Masters graduation class (30 students)<br>
-Shahid Bahonar University, Iran<br>
+<b>Ranked second</b> GPA among my Masters graduation class (30 students), Shahid Bahonar University, Iran<br>
 
 <b>2014</b><br> 
-Received <b>full Scholarship</b> for Masters degree (Tuition waiver)<br>
-Shahid Bahonar University, Iran<br>
+Received <b>full Scholarship</b> for Masters degree (Tuition waiver), Shahid Bahonar University, Iran<br>
 
 <b>2009</b><br> 
-Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver)<br>
-Shahid Bahonar University, Iran<br><br>
+Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver), Shahid Bahonar University, Iran<br><br>
 
+
+
+
+
+
+<!-- <b>2017</b><br>  -->
+<!-- Selected as a member of <b>Iran’s National Elites Foundation (INEF)</b><br> -->
+<!-- Tehran, Iran<br> -->
+
+<!-- <b>2016</b><br>  -->
+<!-- <b>Ranked second</b> GPA among my Masters graduation class (30 students)<br> -->
+<!-- Shahid Bahonar University, Iran<br> -->
+
+<!-- <b>2014</b><br>  -->
+<!-- Received <b>full Scholarship</b> for Masters degree (Tuition waiver)<br> -->
+<!-- Shahid Bahonar University, Iran<br> -->
+
+<!-- <b>2009</b><br>  -->
+<!-- Received <b>full Scholarship</b> for Bachelors degree (Tuition waiver)<br> -->
+<!-- Shahid Bahonar University, Iran<br><br> -->
 
 
 
