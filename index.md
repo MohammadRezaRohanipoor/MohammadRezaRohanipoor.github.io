@@ -421,26 +421,26 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 
 
-**Software Programming Languages:**<br>
-*C, C++, C-sharp, Python, Matlab*<br>
+<b>Software Programming Languages:</b><br>
+C, C++, C-sharp, Python, Matlab<br>
 
-**Hardware Description Languages:**<br>
-*VHDL, Verilog*<br>
+<b>Hardware Description Languages:</b><br>
+VHDL, Verilog<br>
 
-**Development Tools:** <br>
-*Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus*<br>
+<b>Development Tools:</b> <br>
+Xilinx Vivado Toolset, Xilinx ISE Toolset, Intel Quartus, Modelsim, Code Composer Studio, Codevision, AVR Studio, Synopsys HSPICE, Proteus<br>
 
-**FPGAs and Microcontrollers:**<br>
-*Xilinx FPGAs, Altera FPGAs, TI DSPs, ARM, AVR*<br>
+<b>FPGAs and Microcontrollers:</b><br>
+Xilinx FPGAs, Altera FPGAs, TI DSPs, ARM, AVR<br>
 
-**Development Boards:**<br>
-*Digilent Atlys, Altera DE1, TI TMDSEVM6678, Raspberry Pi4, Arduino Mega 2560, Arduino Uno*<br>
+<b>Development Boards:</b><br>
+Digilent Atlys, Altera DE1, TI TMDSEVM6678, Raspberry Pi4, Arduino Mega 2560, Arduino Uno<br>
 
-**Other Softwares:**<br>
-*Microsoft Visual Studio, SQL Server, Microsoft Office*<br>
+<b>Other Softwares:</b><br>
+Microsoft Visual Studio, SQL Server, Microsoft Office<br>
 
-**Operating Systems:**<br>
-*Microsoft Windows, Ubuntu*<br><br>
+<b>Operating Systems:</b><br>
+Microsoft Windows, Ubuntu<br><br>
 
 
 
@@ -506,14 +506,14 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact </h2>
-*Reliable Embedded System Design Laboratory (RESD)*<br>
-*Department of Computer Engineering*<br>
-*Shahid Bahonr University of Kerman*<br><br>
-*<b>Email</b>: m.r.rohanipour@eng.uk.ac.ir*<br>  
+Reliable Embedded System Design Laboratory (RESD)<br>
+Department of Computer Engineering<br>
+Shahid Bahonr University of Kerman<br><br>
+<b>Email</b>: m.r.rohanipour@eng.uk.ac.ir<br>  
 
-*<b>Google Scholar</b>: [link](https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}*<br>
-*<b>Researchgate</b>: [link](https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor){:target="_blank"}*<br>
-*<b>LinkedIn</b>: [link](https://www.linkedin.com/in/mohammad-reza-rohanipoor/){:target="_blank"}*<br>
+<b>Google Scholar</b>: [link](https://scholar.google.co.uk/citations?hl=en&user=r8T7sG4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}<br>
+<b>Researchgate</b>: [link](https://www.researchgate.net/profile/Mohammad_Reza_Rohanipoor){:target="_blank"}<br>
+<b>LinkedIn</b>: [link](https://www.linkedin.com/in/mohammad-reza-rohanipoor/){:target="_blank"}<br>
 
 
 <style type="text/css">
