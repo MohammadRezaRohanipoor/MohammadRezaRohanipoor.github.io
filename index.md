@@ -108,25 +108,25 @@ In this project, I'm interested in understanding how people with vision impairme
 
 <h3 class="h2">Research Interests:</h3>
 
-<ul>
-<li>Reliable Circuits Design</li> <br>
-<li>Electronic Design Automation</li> <br>
-<li>Computer Architecture</li> <br>
-<li>Digital System Design</li> <br>
-<li>Hardware/Software Co-design</li> <br>
-<li>Parallel Processing</li> <br>
-<li>Computer Vision</li> <br>
-<li>Deep Learning</li> <br> <br>
-</ul>
+<!-- <ul> -->
+<!-- <li>Reliable Circuits Design</li> <br> -->
+<!-- <li>Electronic Design Automation</li> <br> -->
+<!-- <li>Computer Architecture</li> <br> -->
+<!-- <li>Digital System Design</li> <br> -->
+<!-- <li>Hardware/Software Co-design</li> <br> -->
+<!-- <li>Parallel Processing</li> <br> -->
+<!-- <li>Computer Vision</li> <br> -->
+<!-- <li>Deep Learning</li> <br> <br> -->
+<!-- </ul> -->
 
-<!-- Reliable Circuits Design <br> -->
-<!-- Electronic Design Automation <br> -->
-<!-- Computer Architecture <br> -->
-<!-- Digital System Design <br> -->
-<!-- Hardware/Software Co-design <br> -->
-<!-- Parallel Processing <br> -->
-<!-- Computer Vision <br> -->
-<!-- Deep Learning <br> <br> -->
+Reliable Circuits Design <br>
+Electronic Design Automation <br>
+Computer Architecture <br>
+Digital System Design <br>
+Hardware/Software Co-design <br>
+Parallel Processing <br>
+Computer Vision <br>
+Deep Learning <br> <br>
 
 <!-- * Reliable Circuits Design  -->
 <!-- * Electronic Design Automation -->
@@ -538,7 +538,7 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
   .body-social > ul > li > a {
     display: inline;
     text-align: center;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     font-weight: 600;
     /*width: 3rem;*/
     /*height: 4rem;*/
