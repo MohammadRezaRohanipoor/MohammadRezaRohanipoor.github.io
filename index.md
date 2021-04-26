@@ -320,21 +320,42 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 <h3 class="h2">Membership</h3> 
 
-*<b>2017</b>*<br> 
-*Computer Society of Iran, Tehran, Iran.*<br>
-*Graduate student member*<br>
+<b>2017</b><br> 
+Graduate student member, Computer Society of Iran, Tehran, Iran.<br>
 
-*<b>2017</b>*<br> 
-*Informatics Society of Iran, Tehran, Iran.*<br>
-*Graduate student member*<br>
+<b>2017</b><br> 
+Graduate student member, Informatics Society of Iran, Tehran, Iran.<br>
 
-*<b>2017</b>*<br> 
-*Iranian Society of Cryptology, Tehran, Iran.*<br>
-*Graduate student member*<br>
+<b>2017</b><br> 
+Graduate student member, Iranian Society of Cryptology, Tehran, Iran.<br>
 
-*<b>2017</b>*<br> 
-*Iranian Society of Information Communication Technology, Tehran, Iran.*<br>
-*Graduate student member*<br><br>
+<b>2017</b><br> 
+Graduate student member, Iranian Society of Information Communication Technology, Tehran, Iran.<br><br>
+
+
+
+
+
+
+<!-- *<b>2017</b>*<br>  -->
+<!-- *Computer Society of Iran, Tehran, Iran.*<br> -->
+<!-- *Graduate student member*<br> -->
+
+<!-- *<b>2017</b>*<br>  -->
+<!-- *Informatics Society of Iran, Tehran, Iran.*<br> -->
+<!-- *Graduate student member*<br> -->
+
+<!-- *<b>2017</b>*<br>  -->
+<!-- *Iranian Society of Cryptology, Tehran, Iran.*<br> -->
+<!-- *Graduate student member*<br> -->
+
+<!-- *<b>2017</b>*<br>  -->
+<!-- *Iranian Society of Information Communication Technology, Tehran, Iran.*<br> -->
+<!-- *Graduate student member*<br><br> -->
+
+
+
+
 
 
 
