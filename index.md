@@ -288,7 +288,7 @@ Image Processing Using AES Algorithm and VHDL<br> <br>
 
 
 <b>2018–2020</b><br> 
-<b>Researcher</b>, <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran. <br><br>
+<b>Member</b>, <b>Iran’s National Elites Foundation (INEF)</b>, Tehran, Iran. <br><br>
 <!-- Contributed in one research project.<br><br> -->
 
 
