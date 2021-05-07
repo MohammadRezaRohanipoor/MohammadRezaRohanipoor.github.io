@@ -12,9 +12,10 @@ author1:
 
   # This photo will be used in the about section.
   picture:
-    path:            /assets/img/profile.jpg
+    # path:            /assets/img/profile.jpg
+    path:            /assets/img/rohanipoor.jpg
     
-
+ 
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
